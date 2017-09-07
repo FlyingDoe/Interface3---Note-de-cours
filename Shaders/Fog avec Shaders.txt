@@ -1,0 +1,12 @@
+# Pour faire du fog :
+
+## Le plus facile
+1) se mettre en differed
+2) ça sera du post processing (cocher "Fog")
+3) Ajuster les réglage dans les options de Lighting
+
+Attention, le fog peut ignorer le skybox... à regler en fct du type de jeu. Penser à mettre des imposteur pour donner le change.
+
+## Volumetric Lights (gratuit)
+Sur GitHub https://github.com/SlightlyMad/VolumetricLights
+Plus couteux, mais vachement efficace niveau ambiance
